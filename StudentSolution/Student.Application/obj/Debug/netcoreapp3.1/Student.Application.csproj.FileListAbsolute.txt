@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\bin\Debug\netcoreapp3.1\Student.Application.deps.json
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\bin\Debug\netcoreapp3.1\Student.Application.dll
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\bin\Debug\netcoreapp3.1\Student.Application.pdb
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.dll
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.pdb
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\bin\Debug\netcoreapp3.1\Student.Data.dll
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\bin\Debug\netcoreapp3.1\Student.Data.pdb
+C:\Users\ASUS\source\repos\StudentSolution\Student.Application\obj\Debug\netcoreapp3.1\Student.Application.csproj.CopyComplete
